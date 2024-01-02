@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/codeday07/vue-cart-demo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/codeday07/vuex-demo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/day08-day10-智慧商城项目/hm-shopping/hm-shopping" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/day12-pinia&amp;大事件管理系统/day12-Vue3-big-event-admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/day13-大事件管理系统-Vue3-big-event-admin" vcs="Git" />
